@@ -1,6 +1,6 @@
 # linux-devops-lab
 
-Practice repo for Git, GitHub and GitHub Actions.
+Practice repo for Git, GitHub and GitHub Actions
 
 ![CI](https://github.com/Lokeshbabu6/linux-devops-lab/actions/workflows/ci.yml/badge.svg)
 
