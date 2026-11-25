@@ -2,6 +2,8 @@
 
 Practice repo for Git, GitHub and GitHub Actions.
 
+![CI](https://github.com/Lokeshbabu6/linux-devops-lab/actions/workflows/ci.yml/badge.svg)
+
 ## Contents
 - `scripts/` Linux ops scripts (checked by ShellCheck in CI)
 - `k8s/` sample Kubernetes YAML (checked by yamllint in CI)
